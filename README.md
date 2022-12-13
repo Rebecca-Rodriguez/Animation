@@ -12,3 +12,5 @@ In this project, I loaded and processed a few animations that all revolve around
 * Procedural animation, 5 moving boxes with no interpolation, but snapping to key frames
 * Sphere animation loaded from file, plays and loops properly
 * Procedural animation, spheroid moves around grid
+
+![Demo File](https://github.com/RebeccaVelez/Animation/blob/main/project_6.gif)
